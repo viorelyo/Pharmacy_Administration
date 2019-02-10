@@ -30,6 +30,6 @@ Example of `adding` new medication.
 
 `Search` medications.
 
-<img src="/screenshots/gif1.GIF" width="500">
+<img src="/screenshots/gif1.gif" width="500">
 
 
