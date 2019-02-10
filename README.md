@@ -20,7 +20,11 @@ Each medication is stored in the following ways: name, concentration, amount and
 * `Record` the amount of medication
 
 ## Demo
-Example of `adding` new medication.
+`Search` medications. The medication will be automatically searched on Google.
+
+<img src="/screenshots/gif1.gif" width="700">
+
+`Add` new medication.
 
 <img src="/screenshots/screenshot2.PNG" width="500">
 
@@ -28,8 +32,6 @@ Example of `adding` new medication.
 
 <img src="/screenshots/screenshot3.PNG" width="500">
 
-`Search` medications.
 
-<img src="/screenshots/gif1.gif" width="500">
 
 
