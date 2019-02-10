@@ -1,0 +1,11 @@
+https://www.google.com/search?tbm=isch&q=findSomeImage
+
+q=string
+
+https://stenevang.wordpress.com/2013/02/22/google-advanced-power-search-url-request-parameters/
+
+https://stackoverflow.com/questions/21530274/format-for-a-url-that-goes-to-google-image-search
+
+https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters
+
++ Documentatie (short)

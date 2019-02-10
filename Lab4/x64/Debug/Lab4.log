@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  CommandPattern.cpp
+  Controller.cpp
+  Lab4.cpp
+  Med.cpp
+  Repository.cpp
+c:\users\viorel\source\repos\lab4\lab4\repository.cpp(73): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  UI.cpp
+c:\users\viorel\source\repos\lab4\lab4\ui.cpp(172): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\viorel\source\repos\lab4\lab4\ui.cpp(190): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\viorel\source\repos\lab4\lab4\ui.cpp(222): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\viorel\source\repos\lab4\lab4\ui.cpp(340): warning C4018: '<': signed/unsigned mismatch
+c:\users\viorel\source\repos\lab4\lab4\ui.cpp(394): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\viorel\source\repos\lab4\lab4\ui.cpp(666): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\viorel\source\repos\lab4\lab4\ui.cpp(681): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Lab4.vcxproj -> C:\Users\viorel\source\repos\Lab4\x64\Debug\Lab4.exe

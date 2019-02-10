@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  CommandPattern.cpp
+  Controller.cpp
+  Lab4.cpp
+  Med.cpp
+  Repository.cpp
+  UI.cpp
+c:\users\viorel\source\repos\lab4\lab4\ui.cpp(340): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab4.vcxproj -> C:\Users\viorel\source\repos\Lab4\Debug\Lab4.exe
